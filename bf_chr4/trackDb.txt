@@ -50,13 +50,13 @@ longLabel MAKER gene predictions
 shortLabel maker
 group genePreds
 type bigGenePred
-bigDataUrl https://raw.githubusercontent.com/lurebgi/bf_chr4_test/main/bf_chr4/maker.bb
+bigDataUrl https://raw.githubusercontent.com/lurebgi/bf_chr4_test/main/bf_chr4/chr4.gff.genePredEx4.bb
 color 0,255,255
 visibility dense
 html https://raw.githubusercontent.com/lurebgi/bf_chr4_test/main/bf_chr4/maker.html
 
 group genePreds
 type bigGenePred
-bigDataUrl https://raw.githubusercontent.com/lurebgi/bf_chr4_test/main/bf_chr4/maker.bb
+bigDataUrl https://raw.githubusercontent.com/lurebgi/bf_chr4_test/main/bf_chr4/chr4.gff.genePredEx4.bb
 color 0,255,255
 
