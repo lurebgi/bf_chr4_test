@@ -1,0 +1,6 @@
+hub bf_chr4
+shortLabel bf_chr4
+longLabel Florida amphioxus
+genomesFile genomes.txt
+email luohaox@gmail.com
+descriptionUrl aboutHub.html
